@@ -65,7 +65,7 @@
 ###
 
 <div align="center">
-  <table border="0">
+  <table style="border: none; border-collapse: collapse;">
     <tr>
       <td><a href="https://open.spotify.com/user/pavellsann"><img src="https://spotify-recently-played-readme.vercel.app/api?user=mr2gxse9i8ijlx4ewrd29s3qu&count=5" alt="Spotify recently played" /></a></td>
       <td width="20"></td>
