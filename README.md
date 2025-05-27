@@ -65,11 +65,13 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/pavellsann">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=mr2gxse9i8ijlx4ewrd29s3qu&count=5" alt="Spotify recently played" />
-  </a>
-  <img width="20" />
-  <img src="https://profile-counter.glitch.me/pavellsan8/count.svg?" />
+  <table border="0">
+    <tr>
+      <td><a href="https://open.spotify.com/user/pavellsann"><img src="https://spotify-recently-played-readme.vercel.app/api?user=mr2gxse9i8ijlx4ewrd29s3qu&count=5" alt="Spotify recently played" /></a></td>
+      <td width="20"></td>
+      <td><img src="https://profile-counter.glitch.me/pavellsan8/count.svg?" /></td>
+    </tr>
+  </table>
 </div>
 
 ###
